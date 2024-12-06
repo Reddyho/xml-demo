@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="food.css" type="text/css"?>
+<!-- Xml document describing Breakfast menu-->
+<breakfast_menu>  <!-- Root Element-->
+<title>The Second Wife Restaurant -Breakfast Menu</title>
+    <food>        <!-- Element-->
+        <name>Belgian Waffles</name>   <!-- Child Elements-->
+        <price>Price &gt; $5.95</price>
+        <description>Two of our famous &quot;Belgian Waffles&quot; with
+            plenty of real Maple Syrup
+        </description>
+        <calories>650</calories>
+    </food>
+
+    <food>        <!-- Element-->
+        <name>Rice Noodles</name>   <!-- Child Elements-->
+        <price>$1.10</price>
+        <description>Rice Noodles prepared from Rice with pressing
+            and having with Coconut Milk
+        </description>
+        <calories>500</calories>
+    </food>
+
+    <food>
+		<name>Strawberry &amp; Belgian Waffles</name>
+		<price>$7.95</price>
+		<description>Light Belgian waffles covered with &apos;strawberries&apos; and whipped cream</description>
+		<calories>900</calories>
+	</food>
+	<food>
+		<name>Berry-Berry Belgian Waffles</name>
+		<price>$8.95</price>
+		<description>Light Belgian waffles covered with an assortment of fresh berries and whipped cream</description>
+		<calories>900</calories>
+	</food>
+	<food>
+		<name>French Toast</name>
+		<price>$4.50</price>
+		<description>Thick slices made from our homemade sourdough bread</description>
+		<calories>600</calories>
+	</food>
+	<food>
+		<name>Homestyle Breakfast</name>
+		<price>$6.95</price>
+		<description>Two eggs, bacon or sausage, toast, and our ever-popular hash browns</description>
+		<calories>950</calories>
+	</food>
+</breakfast_menu>

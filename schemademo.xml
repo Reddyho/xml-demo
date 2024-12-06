@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contact
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:noNamespaceSchemaLocation="employee.xsd"> 
+ 
+   <name>Honey</name>
+   <company>Tiger Soft</company>
+   <phone>687997779</phone>
+   <!--<phone>test</phone>  -->
+   <!--<city>Bangalore</city> --> 
+   <!--<name>Raj</name> -->
+</contact>

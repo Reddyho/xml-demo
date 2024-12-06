@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Entity References - &lt; &gt; &amp; &apos; &qot
+If you place a character like "<" inside an XML element, 
+it will generate an error because the parser interprets it as 
+the start of a new element.
+-->
+<class>
+
+   <student rollno="393">
+      <firstname>dinkar&apos;s</firstname>
+      <lastname>kad</lastname>
+      <nickname>dinkar</nickname>
+      <marks> if marks &gt; 85 then</marks>
+   </student>
+
+   <student rollno="493">
+      <firstname>Vaneet</firstname>
+      <lastname>Gupta</lastname>
+      <nickname>vinni &amp; minni</nickname>
+      <marks>marks &lt; 95</marks>
+   </student>
+   
+   <student rollno="593">
+      <firstname>jasvir</firstname>
+      <lastname>&quot;singn&quot;</lastname>
+      <nickname>jazz</nickname>
+      <marks>90</marks>
+   </student>
+</class>

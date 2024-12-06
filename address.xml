@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- internal DTD-->
+<!DOCTYPE person[
+    <!ELEMENT person (address+)>
+    <!ELEMENT address (name,company,phone)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT company (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+]>
+<person>
+<address>
+    <name>teja</name>
+    <company>Tiger soft</company>
+    <phone>9392426670</phone>
+    <designation>Developer</designation>
+</address>
+<address>
+    <name>chandu</name>
+    <company>jagan</company>
+    <phone>9392426890</phone>
+</address>
+</person>

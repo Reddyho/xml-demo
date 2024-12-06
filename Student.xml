@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college>
+    <student>
+        <rollno>101</rollno>
+        <name>Teja</name>
+        <course>CSE</course>
+        <fee>10000</fee>
+    </student>
+    <student>
+        <rollno>102</rollno>
+        <name>Ajay</name>
+        <course>ECE</course>
+        <fee>15000</fee>
+    </student>
+    <student>
+        <rollno>103</rollno>
+        <name>Chandu</name>
+        <course>IT</course>
+        <fee>20000</fee>
+    </student>
+</college>
